@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <div dir="auto">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/maeskhai" alt="maeskhai's 42 stats" /></a>
 </div>
+
+Student at 1337, 42 network!
