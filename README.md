@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" dir="auto">
+<div dir="auto">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/maeskhai" alt="maeskhai's 42 stats" /></a>
 </div>
